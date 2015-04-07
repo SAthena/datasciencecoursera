@@ -1,3 +1,3 @@
 # datasciencecoursera
-Coursera Data Science 
-## This is a markdown file
+Readme file created when create repo: used to describe the repo
+
