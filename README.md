@@ -1,2 +1,3 @@
 # datasciencecoursera
-Coursera Data Science 
+Readme file created when create repo: used to describe the repo
+
